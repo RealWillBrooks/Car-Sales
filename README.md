@@ -2,7 +2,7 @@
 
 In this project you are given the skeleton/structure/styling of a React app. There is even some state built in for you. Your job will be to implement React-Redux as the state management system for this application.
 
-## Instructions
+## Instructions 
 
 ---
 
